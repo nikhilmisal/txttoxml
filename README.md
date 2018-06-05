@@ -1,4 +1,4 @@
-# txttoxml
+# TxtToXml
 Convert Delimited Text file to XML
 
 This sample code demonstrates how to convert delimited TEXT file to XML using AttributesImpl and TransformerHandler. 

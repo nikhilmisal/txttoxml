@@ -1,0 +1,3 @@
+9780091929787;David Heinemeier Hansson,Jason Fried;Rework
+9780753550304;Peter Thiel,Blake Masters;Zero to One
+9781451648539;Walter Isaacson;Steve Jobs
